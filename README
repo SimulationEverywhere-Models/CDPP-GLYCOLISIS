@@ -1,0 +1,46 @@
+Monday, October 27, 2003
+------------------------
+
+All the atomic models are working now.
+
+Note:  the internal function [what happens in black box] is written 
+in the simplest form possible for now.  This function can be changed 
+later on to meet the requested requirements. 
+
+10 atomic models:
+step1.h step1.cpp step1.ev step1.ma Running
+step2.h step2.cpp step2.ev step2.ma Running
+step3.h step3.cpp step3.ev step3.ma Running
+step4.h step4.cpp step4.ev step4.ma Running
+step5.h step5.cpp step5.ev step5.ma Running
+step6.h step6.cpp step6.ev step6.ma Running 
+step7.h step7.cpp step7.ev step7.ma Running
+step8.h step8.cpp step8.ev step8.ma Running
+step9.h step9.cpp step9.ev step9.ma Running
+step10.h step10.cpp step10.ev step10.ma Running
+
+Other modified files from cd++:
+register.cpp
+makefile
+
+Nov 09 2003:
+
+- After make clean in cd++, all the library files (*.a) disappeared.  cd3++ was created, and makefile and *.cpp and *.h files were separated from cd3++, so that make clean can be done everytime without effecting the cd++ files.
+
+Nov 13 2003
+
+- I was not getting the correct output functions.  The internal and output functions were modified to solve these problems.
+
+
+Nov 15 2003
+- All the steps are working.
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Author: Roxana Djafarzadeh
+Email1: roxanadj@hotmail.com
+Email2: roxana.djafarzadeh@worldheart.com
+Email3: rdjafar@site.uottawa.ca
+Tel:    +613 - 260-1212
+Office: +613 - 798-5555 ext. 13002
+Cell:   +613 - 808-3398

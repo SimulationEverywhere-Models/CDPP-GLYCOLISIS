@@ -1,0 +1,2 @@
+#!/bin/sh
+./simu -mstep1.ma -estep1.ev -lstep1.log -ostep1.out

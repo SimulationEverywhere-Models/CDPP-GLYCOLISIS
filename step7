@@ -1,0 +1,2 @@
+#!/bin/sh
+./simu -mstep7.ma -estep7.ev -lstep7.log -ostep7.out
